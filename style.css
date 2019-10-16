@@ -1,5 +1,6 @@
 .header {
   postion: relative;
+  text-aling: center;
   display: flex;
   justify-content: center;
 }
