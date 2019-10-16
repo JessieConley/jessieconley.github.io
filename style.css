@@ -1,4 +1,5 @@
 .header {
+  postion: relative;
   display: flex;
   justify-content: center;
 }
