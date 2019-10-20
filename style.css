@@ -5,8 +5,6 @@ flex-wrap: wrap;
   width: 50%;
 }
 .bio {
-  Display: flex;
-    flex-wrap: wrap;
     justify-content: right;
   width: 50%;
 }
