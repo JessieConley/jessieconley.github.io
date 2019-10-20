@@ -1,5 +1,12 @@
 .header {
 display: flex;
-flex-wrap: wrap
-  justify-content: left
+flex-wrap: wrap;
+  justify-content: left;
+  width: 250px;
+}
+.bio {
+  Display: flex;
+    flex-wrap: wrap;
+    justify-content: right;
+  width: 250px;
 }
