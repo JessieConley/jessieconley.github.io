@@ -2,17 +2,20 @@
   text-align: center;
   width: 800px;
   margin: 40px auto 60px;
-  border: 2px;
+  display: inline-block;
 }
 .professionalexperience {
   width: 800px;
   margin: 40px auto 60px;
+  display: inline-block;
 }
 .education {
   width: 800px;
   margin: 40px auto 60px;
+  display: inline-block;
 }
 .technical {
   width: 800px;
   margin: 40px auto 60px;
+  display: inline-block;
 }
