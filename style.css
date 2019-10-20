@@ -1,24 +1,21 @@
 .header {
   text-align: center;
-  width: 800px;
+  width: 900px;
   margin: 40px auto 60px;
   display: flex;
 }
 .professionalexperience {
-  margin-top: 20px;
-  width: 800px;
+  width: 900px;
   margin: 40px auto 60px;
   display: flex;
 }
 .education {
-  margin-top: 20px;
-  width: 800px;
+  width: 900px;
   margin: 40px auto 60px;
   display: flex;
 }
 .technical {
-  margin-top: 20px;
-  width: 800px;
+  width: 900px;
   margin: 40px auto 60px;
   display: flex;
 }
