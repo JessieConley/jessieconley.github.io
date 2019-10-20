@@ -2,11 +2,11 @@
 display: flex;
 flex-wrap: wrap;
   justify-content: left;
-  width: 350px;
+  width: 50%;
 }
 .bio {
   Display: flex;
     flex-wrap: wrap;
     justify-content: right;
-  width: 250px;
+  width: 50%;
 }
